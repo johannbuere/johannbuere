@@ -1,14 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Johann+Buere!;" />
-</h1>
-<h3 align="center">A passionate software and game developer eager to learn and grow</h3>
-<br/>
-<div align="center">
+<h1 align="left">Hi, I'm Johann Reuel Buere</h1>
+
+<h3 align="left">An aspiring software and game developer, constantly learning to grow and improve</h3>
 
 ## About Me
-👨‍💻 Aspiring Software Developer
-🎮 Indie Game Enthusiast
-🌱 Currently Learning C/C#
-👥 Open to Mentorship Opportunities
-📬 Feel free to contact me at: johannbuere@gmail.com 📧
+**`Online Content Creator (Graphic Designer & Social Media Manager)`**<br>
+I'm an online content creator with expertise in graphic design and social media management. Dedicated to continuous improvement through learning Adobe applications, while primarily utilizing Canva for content creation. Offering professional freelance services on Fiverr to bring your vision to life.<br><br>
+👨‍💻 Aspiring Software Developer<br>
+🎮 Indie Game Enthusiast<br>
+🌱 Currently Learning C/C#<br>
+🎨 Exploring the world of UI/UX design
+👥 Open to Mentorship Opportunities<br>
+📬 Feel free to contact me at: johannbuere@gmail.com 📧<br>
