@@ -8,7 +8,7 @@ I'm an online content creator with expertise in graphic design and social media 
 👨‍💻 Aspiring Software Developer<br>
 🎮 Indie Game Enthusiast<br>
 🌱 Currently Learning C/C#<br>
-🎨 Exploring the world of UI/UX design
+🎨 Exploring the world of UI/UX design<br>
 👥 Open to Mentorship Opportunities<br>
 📬 Feel free to contact me at: johannbuere@gmail.com 📧<be>
 
