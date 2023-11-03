@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Johann Reuel Buere</h1>
 
-<h3 align="left">An aspiring software and game developer, constantly learning to grow and improve</h3>
+<h3 align="left">An aspiring full-stack and game developer, constantly learning to grow and improve</h3>
 
 ## About Me
 **`Online Content Creator (Graphic Designer & Social Media Manager)`**<br>
