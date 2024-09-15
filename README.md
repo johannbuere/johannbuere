@@ -24,8 +24,8 @@ I'm an online content creator with expertise in graphic design and social media 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johannbuere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="121" alt="languages graph"  /><br>
 </div>
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=johannbuere&color=dc143c)
+---
+![](https://komarev.com/ghpvc/?username=johannbuere&icon=0&color=4)
 
 
 
