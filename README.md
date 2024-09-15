@@ -25,8 +25,7 @@ I'm an online content creator with expertise in graphic design and social media 
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=johannbuere&icon=0&color=4)
-
+[![](https://visitcount.itsvg.in/api?id=johannbuere&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
