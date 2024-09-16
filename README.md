@@ -5,7 +5,6 @@
 ## About Me
 **`Online Content Creator (Graphic Designer & Social Media Manager)`**<br>
 I'm an online content creator with expertise in graphic design and social media management. Dedicated to continuous improvement through learning Adobe applications, while primarily utilizing Canva for content creation. Offering professional freelance services on Fiverr to bring your vision to life.<br><br>
-👨‍💻 Aspiring Software Developer<br>
 🎮 Indie Game Enthusiast<br>
 🌱 Currently Learning Java<br>
 🎨 Exploring the world of UI/UX design<br>
