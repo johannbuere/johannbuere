@@ -20,7 +20,7 @@ I'm an online content creator with expertise in graphic design and social media 
 ## Github Stats
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=johannbuere&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johannbuere&locale=en&hide_title=false&layout=compact&card_width=580&langs_count=5&theme=prussian&hide_border=true&order=2" height="121" alt="languages graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johannbuere&locale=en&hide_title=false&layout=compact&card_width=658&langs_count=5&theme=prussian&hide_border=true&order=2" height="121" alt="languages graph"  /><br>
 </div>
 
 ---
