@@ -24,12 +24,6 @@ I'm an aspiring game developer and full-stack engineer<br><br>
 ![Prolog](https://img.shields.io/badge/Prolog-%23FF5722.svg?style=for-the-badge&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-%23F44336.svg?style=for-the-badge&logoColor=white)
 
-### 🌐 Web & UI Technologies
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
 ---
 
 ## GitHub Stats
