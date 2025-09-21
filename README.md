@@ -7,7 +7,6 @@
 👥 Open to mentorship opportunities & collaboration  
 📬 Reach out: **johannbuere@gmail.com**  
 
----
 
 ## 💻 Languages & Tools
 
@@ -21,7 +20,6 @@
 ![Prolog](https://img.shields.io/badge/Prolog-%23FF5722.svg?style=for-the-badge)
 ![Lisp](https://img.shields.io/badge/Lisp-%23F44336.svg?style=for-the-badge)
 
----
 
 ## 📊 GitHub Stats
 
