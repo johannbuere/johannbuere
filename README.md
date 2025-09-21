@@ -21,7 +21,7 @@
 ![Lisp](https://img.shields.io/badge/Lisp-%23F44336.svg?style=for-the-badge)
 
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=johannbuere&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph" />
