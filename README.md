@@ -4,10 +4,9 @@
 
 ## About Me
 **`Undergraduate Computer Science Student`**<br>
-I'm an aspiring game developer and full-stack engineer passionate about both creative expression and technical problem-solving. Currently diving deeper into web development and UI/UX design, while exploring the intricacies of game mechanics and interactive systems.<br><br>
-🎮 Indie Game Enthusiast<br>
+I'm an aspiring game developer and full-stack engineer<br><br>
+
 🌱 Currently Learning Full-Stack Web Development and UI/UX<br>
-🧠 Also exploring Assembly, Lisp, Prolog, and other classic languages<br>
 👥 Open to Mentorship Opportunities and Collaboration<br>
 📬 Reach out: **johannbuere@gmail.com** 📧
 
