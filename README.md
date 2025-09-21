@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Johann Reuel Buere</h1>
 
-<h3 align="left">Aspiring Game Developer & Full-Stack Engineer</h3>
+## Aspiring Game Developer & Full-Stack Engineer 
 
 ## About Me
 **`Undergraduate Computer Science Student`**<br>
