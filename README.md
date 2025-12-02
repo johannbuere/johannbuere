@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header: Using SVG to force "IBM Plex Sans" font -->
-<!-- Cycles through your Name, Goal, and Degree -->
 <a href="https://github.com/johannbuere">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=johannbuere;Wanna+be+a+cloud+engineer;Computer+Science+Undergraduate" alt="Typing SVG" />
 </a>
