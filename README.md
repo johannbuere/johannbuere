@@ -9,8 +9,6 @@
 <br/>
 
 <!-- Tech Stack Section -->
-<h3>Tech Stack</h3>
-
 <!-- Row 1: Core Languages -->
 <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,ts&theme=dark" alt="Languages" />
 <br/>
