@@ -24,16 +24,3 @@
 
 </div>
 
-```
-→ projects i made
-```
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://car4rentlegazpi.vercel.app">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
