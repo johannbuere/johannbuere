@@ -7,21 +7,19 @@
 
 <br/>
 
-<!-- Tech Stack Section -->
-<!-- Row 1: Core Languages -->
+<!-- Tech Stack -->
+<!-- Languanges -->
 <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,ts&theme=dark" alt="Languages" />
 <br/>
-<!-- Row 2: Frameworks, Databases & Tools -->
+<!-- Frameworks, Databases and Tools  -->
 <img src="https://skillicons.dev/icons?i=react,vite,supabase,git&theme=dark" alt="Tools" />
 
 <br/>
 <br/>
 
-<!-- Stats Section -->
+<!-- Stats -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=johannbuere&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </a>
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbuere&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
 
 </div>
