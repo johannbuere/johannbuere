@@ -17,15 +17,24 @@
 <br/>
 
 <!-- Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=johannbuere&theme=dark&hide_border=false&mode=weekly" alt="GitHub Streak" />
-</a>
-
-<!-- Most Ussed Lang -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbuere&theme=dark&hide_border=false&layout=compact" />
-
-<!-- Full Card Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=johannbuere&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=johannbuere&theme=dark&hide_border=false&mode=weekly"
+        alt="GitHub Streak"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbuere&theme=dark&hide_border=false&layout=compact"
+        alt="Top Languages"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
