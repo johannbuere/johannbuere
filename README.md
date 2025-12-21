@@ -17,24 +17,23 @@
 <br/>
 
 <!-- Stats -->
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=johannbuere&theme=dark&hide_border=false&mode=weekly"
-        alt="GitHub Streak"
-        width="420"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbuere&theme=dark&hide_border=false&layout=compact"
-        alt="Top Languages"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Stats -->
+<div align="center">
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=johannbuere&theme=dark&hide_border=true&mode=weekly"
+    alt="GitHub Streak"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbuere&theme=dark&hide_border=true&layout=compact&langs_count=6"
+    alt="Top Languages"
+    width="500"
+    height="350"
+  />
+
+</div>
+
 
 
 
