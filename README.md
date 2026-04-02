@@ -14,11 +14,6 @@
   <img src="https://skillicons.dev/icons?i=react,vite,nextjs,supabase,figma,git&theme=dark" alt="Tools" />
   
   <br/>
-  <br/>
-  
-  <!-- Stats -->
-  <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=johannbuere&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" height="180"/>
-  </div>
+
 
 </div>
