@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=py,html,css,js,ts&theme=dark" alt="Languages" />
   <br/>
   <!-- Frameworks, Databases and Tools  -->
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,supabase,prisma,figma,git&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,postman,postgres,supabase,prisma,figma,git&theme=dark" alt="Tools" />
   
   <br/>
 
