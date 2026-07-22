@@ -4,16 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=johannbuere" alt="Typing SVG" />
   </a>
   
-  <br/>
+  <br/><br/>
   
   <!-- Tech Stack -->
-  <!-- Languanges -->
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,ts&theme=dark" alt="Languages" />
-  <br/>
-  <!-- Frameworks, Databases and Tools  -->
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,postman,postgres,sqlite,supabase,prisma,figma,git&theme=dark" alt="Tools" />
+  
+  <!-- Languages -->
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages" />
   
   <br/>
-
+  
+  <!-- Frontend -->
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite&theme=dark" alt="Frontend" />
+  
+  <br/>
+  
+  <!-- Backend & Databases -->
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=express,prisma,postgres,sqlite,supabase&theme=dark" alt="Backend & Databases" />
+  
+  <br/>
+  
+  <!-- Tools & Design -->
+  <p><strong>Tools & Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma&theme=dark" alt="Tools & Design" />
+  
+  <br/>
 
 </div>
