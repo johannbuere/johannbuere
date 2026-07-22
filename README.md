@@ -9,25 +9,21 @@
   <!-- Tech Stack -->
   
   <!-- Languages -->
-  <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages" />
   
   <br/>
   
   <!-- Frontend -->
-  <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite&theme=dark" alt="Frontend" />
   
   <br/>
   
   <!-- Backend & Databases -->
-  <p><strong>Backend & Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=express,prisma,postgres,sqlite,supabase&theme=dark" alt="Backend & Databases" />
   
   <br/>
   
   <!-- Tools & Design -->
-  <p><strong>Tools & Design</strong></p>
   <img src="https://skillicons.dev/icons?i=git,postman,figma&theme=dark" alt="Tools & Design" />
   
   <br/>
